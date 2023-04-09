@@ -1,0 +1,25 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+
+
+ [
+     {
+         "url":"videos/vid1 (1).mp4",
+         "channel":"learning wed development",
+         "song":"perfect time-Roddy ricch",
+         "likes":0,
+         "messages":0,
+         "description":"an educational video",
+         "share":0
+     },
+     {
+         "url":"videos/vid1 (2).mp4",
+         "channel":"freecodecamp",
+         "song":"chronicle-cordae",
+         "likes":0,
+         "messages":0,
+         "description":"Free code camp",
+         "share":0
+     }
+]

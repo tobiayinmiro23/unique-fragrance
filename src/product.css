@@ -1,0 +1,47 @@
+.Product header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+}
+.Product header h1{
+    font-family: 'Prompt', sans-serif;  
+    margin-left: 1rem;
+}
+.Product header h1:hover{
+    color: black;
+}
+.Product .cartContainer{
+    display: flex;
+    align-items: center;
+    margin-right: 1rem;
+}
+.Product .cartCount{
+    margin-bottom: 1rem;
+    margin-left: -5px;
+    font-size: 0.7rem;
+    background-color: rgb(197, 189, 189);
+    background-color: pink;
+    border-radius: 50%;
+    color: black;
+    font-weight: bolder;
+    padding:0.05rem 0.3rem;
+    color: white;
+}
+.Product .cart{
+    width: 2rem;
+    height: 2rem;
+}
+.Product .invalidId{
+    background-color: white;
+    text-align: center;
+    padding: 3rem 0rem;
+}
+.Product .proudctInformation{
+    margin-left: 2rem;
+}
+.Product .proudctInformation .img{
+    width: 34rem;
+    height: auto;
+}

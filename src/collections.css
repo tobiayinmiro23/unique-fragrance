@@ -1,0 +1,15 @@
+.Perfume .collections header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+}
+.Perfume .collections header .back{
+    width: 2rem;
+    cursor: pointer;
+    height: 2rem;
+    margin-left: 0.5rem;
+}
+.Perfume .collections header .cartContainer{
+    margin-right: 1rem;
+}
